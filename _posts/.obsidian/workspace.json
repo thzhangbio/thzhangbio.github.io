@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "942e341f74ac2444",
+    "type": "split",
+    "children": [
+      {
+        "id": "11eae4d08dfa9ee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3144078e3b55145c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-21-四个线索建博客（1. 准备工作）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cee83a8a8c6f32c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd91c300db004d5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41b98987ad9beae6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d056b4d20e135f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d44b98717d19275",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14060a656fee5e5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2b90b7c9c4bb2f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a410140316561ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-03-21-四个线索建博客（1. 准备工作）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3379cf545805d459",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-03-21-四个线索建博客（1. 准备工作）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a9ca194f98e5689",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9729ad7afbea0dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-03-21-四个线索建博客（1. 准备工作）.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3144078e3b55145c",
+  "lastOpenFiles": [
+    "2024-03-20-四个线索建博客（0. 前言）.md",
+    "2024-03-19-四个线索建博客（全文版）.md",
+    "2024-03-21-四个线索建博客（1. 准备工作）.md"
+  ]
+}
