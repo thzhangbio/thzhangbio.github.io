@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: https://img.tianhui.me
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/favicons/web-app-manifest-512x512.png
